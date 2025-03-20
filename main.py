@@ -23,7 +23,7 @@ def run(filename: str) -> None:
     data = []
 
     # open file using file I/O and read it into the `data` list
-    ...
+    print("hello")
 
     # Use `filter_nondigits` to clean the data and remove invalid entries, save the output to a new variable
     ...
